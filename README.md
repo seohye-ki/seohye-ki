@@ -27,4 +27,7 @@
 ### ✅GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seohye-ki&hide=stars,contribs&count_private=true&show_icons=true&&theme=shadow_green)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohye-ki&layout=compact&theme=nord&hide_border=true)
+
 </div>

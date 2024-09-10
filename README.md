@@ -25,9 +25,9 @@
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=seohyeki)](https://solved.ac/seohyeki)
 
 ### ✅GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seohye-ki&hide=stars,contribs&count_private=true&show_icons=true&&theme=shadow_green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seohye-ki&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohye-ki&layout=compact&theme=nord&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohye-ki&layout=compact&theme=transparent&hide_border=false&card_width=465)
 
 </div>

@@ -30,34 +30,40 @@
 결국 사람들과 함께 만들어가는 거라고 생각합니다.  
 대화를 좋아하고, 의견을 나누면서 더 나은 해결책을 찾는 과정이 즐겁습니다.  
 
-🎲 **보드게임처럼, 전략적으로 사고하는 걸 좋아합니다.**  
+🎲 **보드게임 덕후, 코딩도 보드게임처럼!**  
 로직을 설계할 때도, 문제를 해결할 때도 **전체적인 흐름을 보는 걸 중요하게 생각합니다.**  
 
 🎵 **코딩할 때는 음악이 필수!**  
-장르불문 음악을 틀어두면 집중력이 더 올라갑니다.  
+장르불문 음악을 틀어두면 집중력이 올라갑니다.  
 
 ---
 
 ## **🚀 Projects**  
 
-- **[DocshunD](https://github.com/seohye-ki/DOCSHUND)**  
-  📖 개발 공식문서 번역 플랫폼
+### **📖 [DocshunD](https://github.com/seohye-ki/DOCSHUND)**  
+- **기간:** 2025.01.06 - 2025.02.21 (7주)  
+- **포지션:** 프론트엔드, UI/UX 디자인  
+- **주요 역할:**  
+  - 번역된 문서를 공유하는 웹 플랫폼 개발  
+  - WebSocket을 활용한 실시간 채팅 기능 구현  
+  - 반응형 UI 및 사용자 경험 개선  
 
-- **[EVERYMATCH](https://github.com/seohye-ki/EVERY-MATCH)**  
-  ⚽ 경기 일정 통합 및 알림 서비스
+### **⚽ [EVERYMATCH](https://github.com/seohye-ki/EVERY-MATCH)**  
+- **기간:** 2024.11.18 - 2024.11.27 (10일)  
+- **포지션:** 풀스택, UI/UX 디자인  
+- **주요 역할:**  
+  - 경기 일정 통합 및 팀 추천 기능 개발  
+  - Spring Boot 기반 API 설계 및 구현  
+  - JWT 기반 사용자 인증 및 권한 관리  
 
-- **[42SEOUL](https://github.com/seohye-ki/42SEOUL)**  
-  🔧 C 언어를 기반으로 한 시스템 프로그래밍
+### **🔧 [42SEOUL](https://github.com/seohye-ki/42SEOUL)**  
+- **기간:** 2023.08 - 2024.07 (1년)  
+- **포지션:** 시스템 프로그래밍 학습  
+- **주요 역할:**  
+  - C 언어 기반의 다양한 프로젝트 수행
+  - 멀티스레딩, 네트워크 학습  
+  - 효율적인 알고리즘 구현
 
----
-
-## **🛠 Experience**  
-
-| **Category** | **Skills & Experience** |
-|--------------|----------------------------------------------------------------|
-| 🎨 **Frontend** | React & Vue 기반 SPA 개발 <br> Zustand를 활용한 상태 관리 <br> Tailwind CSS를 활용한 반응형 UI |
-| ⚙️ **Backend & Infra** | Spring Boot 기반 REST API 개발 <br> MyBatis를 활용한 데이터베이스 설계 |
-| 💡 **Other** | WebSocket을 활용한 실시간 데이터 처리 <br> Jira & Notion을 활용한 협업 |
 
 ---
 

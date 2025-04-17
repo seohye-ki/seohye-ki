@@ -40,7 +40,8 @@
 
 ## **🚀 Projects**  
 
-### **💸 [LuFin](https://github.com/seohye-ki/LuFin)**  
+### **💸 [LuFin](https://github.com/seohye-ki/LuFin)** 
+- **내용:** 신용도 기반 초등학생 금융교육 플랫폼
 - **기간:** 2025.02.24 - 2025.04.11 (7주)  
 - **포지션:** 백엔드, UI/UX 디자인, 인프라
 - **주요 역할:**  
@@ -48,7 +49,8 @@
   - 2차 인증번호 비즈니스로직 및 화면 개발
   - 서비스 아키텍쳐 구축 및 CI 파이프라인 설계
 
-### **📖 [DocshunD](https://github.com/seohye-ki/DOCSHUND)**  
+### **📖 [DocshunD](https://github.com/seohye-ki/DOCSHUND)** 
+- **내용:** 국내 개발자를 위한 IT 공식 문서 번역 및 개발지원 플랫폼
 - **기간:** 2025.01.06 - 2025.02.21 (7주)  
 - **포지션:** 프론트엔드, UI/UX 디자인  
 - **주요 역할:**  
@@ -57,6 +59,7 @@
   - 반응형 UI 및 사용자 경험 개선  
 
 ### **⚽ [EVERYMATCH](https://github.com/seohye-ki/EVERY-MATCH)**  
+- **내용:** 프로스포츠 경기일정 통합관리 플랫폼
 - **기간:** 2024.11.18 - 2024.11.27 (10일)  
 - **포지션:** 풀스택, UI/UX 디자인  
 - **주요 역할:**  

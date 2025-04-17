@@ -40,6 +40,14 @@
 
 ## **🚀 Projects**  
 
+### **💸 [LuFin](https://github.com/seohye-ki/LuFin)**  
+- **기간:** 2025.02.24 - 2025.04.11 (7주)  
+- **포지션:** 백엔드, UI/UX 디자인, 인프라
+- **주요 역할:**  
+  - 대출, 아이템 상점 도메인 개발
+  - 2차 인증번호 비즈니스로직 및 화면 개발
+  - 서비스 아키텍쳐 구축 및 CI 파이프라인 설계
+
 ### **📖 [DocshunD](https://github.com/seohye-ki/DOCSHUND)**  
 - **기간:** 2025.01.06 - 2025.02.21 (7주)  
 - **포지션:** 프론트엔드, UI/UX 디자인  
@@ -73,21 +81,24 @@
 ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
 
 ### **Frontend**  
-![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Tailwind](https://skillicons.dev/icons?i=tailwindcss) ![Zustand](https://skillicons.dev/icons?i=zustand)
+![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Tailwind](https://skillicons.dev/icons?i=tailwindcss) ![Vite](https://skillicons.dev/icons?i=vite) ![Zustand](https://skillicons.dev/icons?i=zustand) 
 
 ### **Backend & Database**  
 ![Spring Boot](https://skillicons.dev/icons?i=spring) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
+### **Infra**
+![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Docker](https://skillicons.dev/icons?i=docker)
+
 ### **Tools & Others**  
-![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Jira](https://skillicons.dev/icons?i=jira)  
-![Figma](https://skillicons.dev/icons?i=figma) ![Notion](https://skillicons.dev/icons?i=notion)
+![Postman](https://skillicons.dev/icons?i=postman) ![Git](https://skillicons.dev/icons?i=git) ![Jira](https://skillicons.dev/icons?i=jira)  
+![Figma](https://skillicons.dev/icons?i=figma) ![Notion](https://skillicons.dev/icons?i=notion) ![Photoshop](https://skillicons.dev/icons?i=ps)
 
 ---
 
 ## **🎓 Education**  
 
 - **삼성 청년 SW 아카데미** *(2024.07 ~ 현재)*  
-  - Java, Spring Boot, Vue.js, MySQL 기반 프로젝트 경험  
+  - Java, Spring Boot, React, MySQL 기반 프로젝트 경험  
 - **42서울** *(2023.08 ~ 2024.07)*  
   - C, C++, 시스템 프로그래밍, 알고리즘, 네트워크 프로그래밍 학습  
 - **서울여자대학교** *(2018.03 - 2023.02)*  
@@ -97,8 +108,9 @@
 
 ## **🏆 Awards**  
 
-- 삼성 청년 SW 아카데미 공통 프로젝트 우수상 *(2025.02.21)*  
-- 삼성 청년 SW 아카데미 관통 프로젝트 우수상 *(2024.11.28)*  
+- 신용도 기반 초등학생 금융교육 플랫폼 LuFin - 우수상 *(2025.04.11)*
+- 국내 개발자를 위한 IT 공식 문서 번역 및 개발지원 플랫폼 DocshunD - 우수상 *(2025.02.21)*  
+- 프로스포츠 경기일정 통합관리 플랫폼 EVERYMATCH - 우수상 *(2024.11.28)*  
 - 서울여자대학교 엔트리 29초 영화제 대상 *(2019.10.29)*  
 
 ---

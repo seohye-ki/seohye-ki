@@ -12,7 +12,7 @@
 
 ---
 
-## **🚀 프로젝트**  
+## **🚀 Projects**  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoungdanNoh&repo=Spico&show_owner=true)](https://github.com/YoungdanNoh/Spico)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoShoot&repo=LuFin&show_owner=true)](https://github.com/NekoShoot/LuFin)
@@ -22,7 +22,7 @@
 
 ---
 
-## **🏆 수상**  
+## **🏆 Awards**  
 
 - **LuFin** – 신용도 기반 초등학생 금융교육 플랫폼: **우수상** *(2025.04.11)*  
 - **DocshunD** – IT 문서 번역 플랫폼: **우수상** *(2025.02.21)*  
@@ -30,7 +30,7 @@
 
 ---
 
-## **📜 자격증**  
+## **📜 Certifications**  
 
 - 정보처리기사 *(2022.11.25)*  
 - SQLD *(2024.12.13)*  
@@ -38,7 +38,7 @@
 
 ---
 
-## **🎓 교육이수**  
+## **🎓 Experiences**  
 
 - **삼성 청년 SW•AI 아카데미** *(2024.07 ~ 현재)*  
   - Java, Spring Boot, React, MySQL 기반 프로젝트 경험  
@@ -49,25 +49,52 @@
 
 ---
 
-## **💻 기술스택**  
+## 💻 Skills
 
-### **Programming Languages**  
-![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Kotlin](https://skillicons.dev/icons?i=kotlin)
+### Programming Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</div>
 
-### **Frontend**  
-![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Tailwind](https://skillicons.dev/icons?i=tailwindcss) ![Vite](https://skillicons.dev/icons?i=vite) ![Zustand](https://skillicons.dev/icons?i=zustand) 
+### Frontend
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zotero&logoColor=white" />
+</div>
 
-### **Backend & Database**  
-![Spring Boot](https://skillicons.dev/icons?i=spring) ![MySQL](https://skillicons.dev/icons?i=mysql)
+### Backend & Database
+<div align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-### **Android**
-![Android studio](https://skillicons.dev/icons?i=androidstudio)
+### Android
+<div align="left">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+</div>
 
-### **Infra**
-![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Docker](https://skillicons.dev/icons?i=docker)
+### Infra
+<div align="left">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
-### **Tools & Others**  
-![Postman](https://skillicons.dev/icons?i=postman) ![Git](https://skillicons.dev/icons?i=git) ![Figma](https://skillicons.dev/icons?i=figma) ![Notion](https://skillicons.dev/icons?i=notion) ![Photoshop](https://skillicons.dev/icons?i=ps)
+### Tools & Collaboration
+<div align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</div>
 
 ---
 

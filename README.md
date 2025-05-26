@@ -14,50 +14,11 @@
 
 ## **🚀 프로젝트**  
 
-### **🎤 [Spico](https://github.com/YoungdanNoh/Spico)** 
-- **내용:** 발표 연습을 돕는 AI 발표 코치 앱
-- **기간:** 2025.04.14 - 2025.05.22 (6주)  
-- **포지션:** 안드로이드, UI/UX 디자인
-- **주요 역할:**  
-  - 발화 내용을 기반으로 스크립트를 자동 추적 및 하이라이팅하는 기능 구현
-  - 문단 이동(롱프레스+드래그), 삭제(슬라이드 제스처) 등 복합 UX를 Jetpack Compose 단일 화면에 통합 구현
-  - 클린 아키텍처 기반의 화면 상태 관리 및 API 연동
-
-### **💸 [LuFin](https://github.com/MarunTurtle/lufin)** 
-- **내용:** 신용도 기반 초등학생 금융교육 플랫폼
-- **기간:** 2025.02.24 - 2025.04.11 (7주)  
-- **포지션:** 백엔드, UI/UX 디자인, 인프라
-- **주요 역할:**  
-  - 대출, 아이템 상점 도메인 개발
-  - 2차 인증번호 비즈니스로직 및 화면 개발
-  - 서비스 아키텍쳐 구축 및 CI 파이프라인 설계
-
-### **📖 [DocshunD](https://github.com/NekoShoot/DOCSHUND)** 
-- **내용:** 국내 개발자를 위한 IT 공식 문서 번역 및 개발지원 플랫폼
-- **기간:** 2025.01.06 - 2025.02.21 (7주)  
-- **포지션:** 프론트엔드, UI/UX 디자인  
-- **주요 역할:**  
-  - 번역된 문서를 공유하는 웹 플랫폼 개발  
-  - WebSocket을 활용한 실시간 채팅 기능 구현  
-  - 반응형 UI 및 사용자 경험 개선  
-
-### **⚽ [EVERYMATCH](https://github.com/seohye-ki/EVERY-MATCH)**  
-- **내용:** 프로스포츠 경기일정 통합관리 플랫폼
-- **기간:** 2024.11.18 - 2024.11.27 (10일)  
-- **포지션:** 풀스택, UI/UX 디자인  
-- **주요 역할:**  
-  - 경기 일정 통합 및 팀 추천 기능 개발  
-  - Spring Boot 기반 API 설계 및 구현  
-  - JWT 기반 사용자 인증 및 권한 관리  
-
-### **🔧 [42SEOUL](https://github.com/seohye-ki/42SEOUL)**  
-- **기간:** 2023.08 - 2024.07 (1년)  
-- **포지션:** 시스템 프로그래밍 학습  
-- **주요 역할:**  
-  - C 언어 기반의 다양한 프로젝트 수행
-  - 멀티스레딩, 네트워크 학습  
-  - 효율적인 알고리즘 구현
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=Spico&show_owner=true)](https://github.com/seohye-ki/Spico)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=LuFin&show_owner=true)](https://github.com/seohye-ki/LuFin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=DOCSHUND&show_owner=true)](https://github.com/seohye-ki/DOCSHUND)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=EVERY-MATCH&show_owner=true)](https://github.com/seohye-ki/EVERY-MATCH)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=42SEOUL&show_owner=true)](https://github.com/seohye-ki/42SEOUL)
 
 ---
 

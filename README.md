@@ -9,12 +9,12 @@
 
 ---
 
-## **🏆 Awards**  
+## **🏆 Awards**
 
-- **Spico** – AI 발표 코치 애플리케이션: **우수상** *(2025.05.22)*  
-- **LuFin** – 신용도 기반 초등학생 금융교육 플랫폼: **우수상** *(2025.04.11)*  
-- **DocshunD** – IT 문서 번역 플랫폼: **우수상** *(2025.02.21)*  
-- **EVERYMATCH** – 경기 일정 통합 플랫폼: **우수상** *(2024.11.28)*  
+* [**Spico**](https://github.com/YoungdanNoh/Spico) – AI 발표 코치 애플리케이션: **우수상** *(2025.05.22)*
+* [**LuFin**](https://github.com/seohye-ki/LuFin) – 신용도 기반 초등학생 금융교육 플랫폼: **우수상** *(2025.04.11)*
+* [**DocshunD**](https://github.com/NekoShoot/DOCSHUND) – IT 문서 번역 플랫폼: **우수상** *(2025.02.21)*
+* [**EVERYMATCH**](https://github.com/seohye-ki/EVERY-MATCH) – 경기 일정 통합 플랫폼: **우수상** *(2024.11.28)*
 
 ---
 
@@ -53,7 +53,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zotero&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </div>
 
 ### Backend & Database
@@ -64,6 +65,7 @@
 
 ### Android
 <div align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
 </div>
@@ -81,7 +83,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white" />
 </div>
 
 ---
@@ -90,3 +92,4 @@
 
 📧 **Email:** [seohyeon.shkim@gmail.com](mailto:seohyeon.shkim@gmail.com)  
 🐙 **GitHub:** [seohye-ki](https://github.com/seohye-ki)  
+🎨 **Portfolio:** [kimseohyeon's Notion](https://twisty-ballcap-925.notion.site/1ff69440b11d806a8b42c83ec5b47b6f)

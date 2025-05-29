@@ -2,7 +2,7 @@
 ## **🚀 Projects**  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoungdanNoh&repo=Spico&show_owner=true)](https://github.com/YoungdanNoh/Spico)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoShoot&repo=LuFin&show_owner=true)](https://github.com/NekoShoot/LuFin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=LuFin&show_owner=true)](https://github.com/seohye-ki/LuFin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoShoot&repo=DOCSHUND&show_owner=true)](https://github.com/NekoShoot/DOCSHUND)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=EVERY-MATCH&show_owner=true)](https://github.com/seohye-ki/EVERY-MATCH)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=42SEOUL&show_owner=true)](https://github.com/seohye-ki/42SEOUL)

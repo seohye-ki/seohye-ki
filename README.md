@@ -1,41 +1,3 @@
-
-## **🚀 Projects**  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoungdanNoh&repo=Spico&show_owner=true)](https://github.com/YoungdanNoh/Spico)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=LuFin&show_owner=true)](https://github.com/seohye-ki/LuFin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoShoot&repo=DOCSHUND&show_owner=true)](https://github.com/NekoShoot/DOCSHUND)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=EVERY-MATCH&show_owner=true)](https://github.com/seohye-ki/EVERY-MATCH)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seohye-ki&repo=42SEOUL&show_owner=true)](https://github.com/seohye-ki/42SEOUL)
-
----
-
-## **🏆 Awards**
-
-* [**Spico**](https://github.com/YoungdanNoh/Spico) – AI 발표 코치 애플리케이션: **우수상** *(2025.05.22)*
-* [**LuFin**](https://github.com/seohye-ki/LuFin) – 신용도 기반 초등학생 금융교육 플랫폼: **우수상** *(2025.04.11)*
-* [**DocshunD**](https://github.com/NekoShoot/DOCSHUND) – IT 문서 번역 플랫폼: **우수상** *(2025.02.21)*
-* [**EVERYMATCH**](https://github.com/seohye-ki/EVERY-MATCH) – 경기 일정 통합 플랫폼: **우수상** *(2024.11.28)*
-
----
-
-## **📜 Certifications**  
-
-- 정보처리기사 *(2022.11.25)*  
-- SQLD *(2024.12.13)*
-- ADsP *(2025.06.13)*
-- GTQ 1급 *(2022.01.14)*  
-
----
-
-## **🎓 Experiences**  
-
-- **삼성 청년 SW•AI 아카데미** *(2024.07 ~ 현재)*  
-  - Java, Spring Boot, React, MySQL 기반 프로젝트 경험  
-- **42서울** *(2023.08 ~ 2024.07)*  
-  - C, C++, 시스템 프로그래밍, 알고리즘, 네트워크 프로그래밍 학습  
-
----
-
 ## 💻 Skills
 
 ### Programming Languages
@@ -84,6 +46,33 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white" />
 </div>
+
+---
+
+## **🏆 Awards**
+
+* [**Spico**](https://github.com/YoungdanNoh/Spico) – AI 발표 코칭 애플리케이션: **우수상** *(2025.05.22)*
+* [**LuFin**](https://github.com/seohye-ki/LuFin) – 신용도 기반 초등학생 금융교육 시뮬레이션 서비스: **우수상** *(2025.04.11)*
+* [**DocshunD**](https://github.com/NekoShoot/DOCSHUND) – IT 개발 공식 문서 공동 번역 및 커뮤니티: **우수상** *(2025.02.21)*
+* [**EVERYMATCH**](https://github.com/seohye-ki/EVERY-MATCH) – 프로스포츠 경기일정 통합 캘린더: **우수상** *(2024.11.28)*
+
+---
+
+## **📜 Certifications**  
+
+- 정보처리기사 *(2022.11.25)*  
+- SQLD *(2024.12.13)*
+- ADsP *(2025.06.13)*
+- GTQ 1급 *(2022.01.14)*  
+
+---
+
+## **🎓 Experiences**  
+
+- **삼성 청년 SW•AI 아카데미** *(2024.07 ~ 현재)*  
+  - Java, Spring Boot, React, MySQL 기반 프로젝트 경험  
+- **42서울** *(2023.08 ~ 2024.07)*  
+  - C, C++, 시스템 프로그래밍, 알고리즘, 네트워크 프로그래밍 학습  
 
 ---
 

@@ -78,4 +78,4 @@
 
 📧 **Email:** [seohyeon.shkim@gmail.com](mailto:seohyeon.shkim@gmail.com)  
 🐙 **GitHub:** [seohye-ki](https://github.com/seohye-ki)  
-🎨 **Portfolio:** [kimseohyeon's Notion](https://twisty-ballcap-925.notion.site/1ff69440b11d806a8b42c83ec5b47b6f)
+🎨 **Portfolio:** [seohyeon.k](https://seohye-ki.github.io/)
